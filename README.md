@@ -23,9 +23,9 @@ An open-source, headless React meta-framework, developed with a commitment to be
 
 - **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. Its virtual DOM enhances performance by minimizing direct interactions with the browser's DOM.
 
-**Refine** is a powerful open-source React meta-framework that streamlines development workflows for enterprise applications, providing efficient data handling, authentication, and access control mechanisms. It simplifies complex tasks and promotes best practices, enhancing productivity and scalability in dynamic environments.
+- **Refine** is a powerful open-source React meta-framework that streamlines development workflows for enterprise applications, providing efficient data handling, authentication, and access control mechanisms. It simplifies complex tasks and promotes best practices, enhancing productivity and scalability in dynamic environments.
 
-**GraphQL** is a query language for APIs that enables efficient data fetching and manipulation. It offers a flexible and powerful approach to data querying, allowing clients to request only the data they need. GraphQL's schema-based system and strong typing ensure robust and predictable API development, enhancing performance and developer productivity.
+- **GraphQL** is a query language for APIs that enables efficient data fetching and manipulation. It offers a flexible and powerful approach to data querying, allowing clients to request only the data they need. GraphQL's schema-based system and strong typing ensure robust and predictable API development, enhancing performance and developer productivity.
 
 - **TypeScript** is a statically typed superset of JavaScript that allows for early detection of errors and more robust, maintainable code. TypeScript's type system helps developers catch mistakes early during the development process, ensuring a more stable and reliable application.
 
