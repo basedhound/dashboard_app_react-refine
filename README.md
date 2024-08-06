@@ -21,19 +21,19 @@ An open-source, headless React meta-framework, developed with a commitment to be
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. Its virtual DOM enhances performance by minimizing direct interactions with the browser's DOM.
+- [**React**](https://react.dev/reference/react) is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. Its virtual DOM enhances performance by minimizing direct interactions with the browser's DOM.
 
-- **Refine** is a powerful open-source React meta-framework that streamlines development workflows for enterprise applications, providing efficient data handling, authentication, and access control mechanisms. It simplifies complex tasks and promotes best practices, enhancing productivity and scalability in dynamic environments.
+- [**Refine**](https://refine.dev/docs/) is a powerful open-source React meta-framework that streamlines development workflows for enterprise applications, providing efficient data handling, authentication, and access control mechanisms. It simplifies complex tasks and promotes best practices, enhancing productivity and scalability in dynamic environments.
 
-- **GraphQL** is a query language for APIs that enables efficient data fetching and manipulation. It offers a flexible and powerful approach to data querying, allowing clients to request only the data they need. GraphQL's schema-based system and strong typing ensure robust and predictable API development, enhancing performance and developer productivity.
+- [**GraphQL**](https://graphql.org/learn/) is a query language for APIs that enables efficient data fetching and manipulation. It offers a flexible and powerful approach to data querying, allowing clients to request only the data they need. GraphQL's schema-based system and strong typing ensure robust and predictable API development, enhancing performance and developer productivity.
 
-- **TypeScript** is a statically typed superset of JavaScript that allows for early detection of errors and more robust, maintainable code. TypeScript's type system helps developers catch mistakes early during the development process, ensuring a more stable and reliable application.
+- [**TypeScript**](https://www.typescriptlang.org/docs/) is a statically typed superset of JavaScript that allows for early detection of errors and more robust, maintainable code. TypeScript's type system helps developers catch mistakes early during the development process, ensuring a more stable and reliable application.
 
-- **Ant Design** is a comprehensive UI component library for React that offers a wide range of customizable and well-designed components. It provides a unified design language and efficient development patterns, promoting consistency and usability across applications. Ant Design's modular architecture and extensive documentation make it a preferred choice for building elegant and responsive user interfaces.
+- [**Ant Design**](https://ant.design/docs/react/getting-started) is a comprehensive UI component library for React that offers a wide range of customizable and well-designed components. It provides a unified design language and efficient development patterns, promoting consistency and usability across applications. Ant Design's modular architecture and extensive documentation make it a preferred choice for building elegant and responsive user interfaces.
 
-- **Codegen** automates the generation of code from a GraphQL schema, facilitating the creation of type-safe APIs and reducing manual coding errors. It speeds up development by generating TypeScript typings, queries, mutations, and data access layers based on GraphQL operations, ensuring consistency and reliability in frontend-backend communication.
+- [**Codegen**](https://www.graphql-cli.com/codegen/) automates the generation of code from a GraphQL schema, facilitating the creation of type-safe APIs and reducing manual coding errors. It speeds up development by generating TypeScript typings, queries, mutations, and data access layers based on GraphQL operations, ensuring consistency and reliability in frontend-backend communication.
 
-- **Vite** is a modern frontend build tool known for fast ES Module imports, efficient bundling, and quick development server startup times. It supports frameworks like Vue.js and React, optimizing workflow and performance compared to traditional bundlers.
+- [**Vite**](https://vitejs.dev/guide/) is a modern frontend build tool known for fast ES Module imports, efficient bundling, and quick development server startup times. It supports frameworks like Vue.js and React, optimizing workflow and performance compared to traditional bundlers.
 
 ## <br/> <a name="features">📝 Features</a>
 
